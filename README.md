@@ -6,4 +6,4 @@ simulation of fireworks, I created it
 using the p5js Javascript library, 
 
 ## Here is a screen capture:
-![alt text](https://raw.githubusercontent.com/aelmosalamy/p5js-fireworks/master/snapshot1.png)
+![alt text](https://github.com/Srivastava295/p5js-fireworks/blob/main/assets/images/fireworks.png?raw=true)
